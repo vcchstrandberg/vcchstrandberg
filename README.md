@@ -3,7 +3,7 @@
 * 🌱 I’m currently learning git...
 * 📫 How to reach me:
 
-  * Slack: hans.strandberg 
+  * Slack: hans.strandberg@volvocars.com 
   * Teams: hans.strandberg@volvocars.com
 
 <!---
