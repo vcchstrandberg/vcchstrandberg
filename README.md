@@ -5,7 +5,7 @@
 
   * Slack: hans.strandberg@volvocars.com 
   * Teams: hans.strandberg@volvocars.com
-  * Slack: [hans.strandberg](https://vcc-consumer-digital.slack.com/user/UC8T6BGCD)
+
 
 
 
