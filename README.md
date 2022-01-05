@@ -1,10 +1,10 @@
-* 👋 Hi, I’m @vcchstrandberg
-* 👀 I’m interested in woodworking, 3d-printing, outdooring, arduino, ham-radio
-* 🌱 I’m currently learning git...
-* 📫 How to reach me:
+- 👋 Hi, I’m @vcchstrandberg
+- 👀 I’m interested in woodworking, 3d-printing, outdooring, arduino, ham-radio
+- 🌱 I’m currently learning git...
+- 📫 How to reach me:
 
-  * Slack: hans.strandberg@volvocars.com 
-  * Teams: hans.strandberg@volvocars.com
+  - Slack: hans.strandberg@volvocars.com 
+  - Teams: hans.strandberg@volvocars.com
 
 
 
