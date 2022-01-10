@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vcchstrandberg
-- 👀 I’m interested in woodworking, 3d-printing, outdooring, arduino, ham-radio
+- 👀 I’m interested in metalworking, 3d-printing, outdooring, arduino, ham-radio
 - 🌱 I’m currently learning git...
 - 📫 How to reach me:
 
