@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vcchstrandberg
-- 👀 I’m interested in metalworking, 3d-printing, outdooring, arduino, ham-radio
-- 🌱 I’m currently learning git...
+- 👀 I’m interested in Observability and DevOps tools 
+- 🌱 I’m currently learning Mermaid
 - 📫 How to reach me:
 
   - Slack: hans.strandberg@volvocars.com 
