@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vcchstrandberg
-- 👀 I’m interested in Observability and DevOps tools 
-- 🌱 I’m currently learning Mermaid
+- 👀 I’m interested in Observability, DevOps tools and Software Development Experience 
+- 🌱 I’m currently learning PlantUML and Kubenetes
 - 📫 How to reach me:
 
   - Slack: hans.strandberg@volvocars.com 
