@@ -1,1 +1,103 @@
-<mxfile host="app.diagrams.net" modified="2023-01-27T08:13:56.956Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" version="20.8.13" etag="AfPQb6_93d6TVvFeZ-lq" type="github"><diagram name="Page-1" id="zDphueDjuYKsQdnrsm34">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-27T08:42:56.717Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="kZL0TsgP6nDdJuD3_oMg" version="20.8.13" type="github">
+  <diagram name="Page-1" id="zDphueDjuYKsQdnrsm34">
+    <mxGraphModel dx="1676" dy="1238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qy60GKB_lgxapdrurTlC-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="220" width="250" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="qy60GKB_lgxapdrurTlC-4" value="GitHub" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qy60GKB_lgxapdrurTlC-5" value="App A (AppID)&lt;br&gt;Team A (AD Group)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qy60GKB_lgxapdrurTlC-7" value="App B (AppID)&lt;br&gt;Team B (AD Group)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qy60GKB_lgxapdrurTlC-8" value="App C (AppID)&lt;br&gt;Team C (AD Group)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qy60GKB_lgxapdrurTlC-9" value="App C (AppID)&lt;br&gt;Team D (AD Group)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qy60GKB_lgxapdrurTlC-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="220" width="2180" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="qy60GKB_lgxapdrurTlC-11" value="UCP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qy60GKB_lgxapdrurTlC-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="285" width="120" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="qy60GKB_lgxapdrurTlC-13" value="API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qy60GKB_lgxapdrurTlC-14" value="ArgoCD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="415" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="qy60GKB_lgxapdrurTlC-16" value="PostgreSQL Operator&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="700" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qy60GKB_lgxapdrurTlC-17" value="FW Operator" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="700" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qy60GKB_lgxapdrurTlC-18" value="Cloud Sub Operator" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="700" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qy60GKB_lgxapdrurTlC-19" value="Bakery Operator" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="700" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qy60GKB_lgxapdrurTlC-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="960" width="830" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="qy60GKB_lgxapdrurTlC-21" value="Azure Tenant" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="980" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qy60GKB_lgxapdrurTlC-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="1080" width="235" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qy60GKB_lgxapdrurTlC-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="1080" width="235" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qy60GKB_lgxapdrurTlC-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="1080" width="235" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qy60GKB_lgxapdrurTlC-25" value="Corp Sub App A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1080" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qy60GKB_lgxapdrurTlC-26" value="Corp Sub App B" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="1080" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qy60GKB_lgxapdrurTlC-27" value="Corp Sub App C" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="1080" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qy60GKB_lgxapdrurTlC-28" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="960" width="830" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="qy60GKB_lgxapdrurTlC-29" value="Bakery&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="980" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qy60GKB_lgxapdrurTlC-30" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1395" y="1080" width="235" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qy60GKB_lgxapdrurTlC-31" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="1080" width="235" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qy60GKB_lgxapdrurTlC-32" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="1080" width="235" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qy60GKB_lgxapdrurTlC-33" value="NS App A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="1080" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qy60GKB_lgxapdrurTlC-34" value="NS App B" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="1080" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qy60GKB_lgxapdrurTlC-35" value="NS App C" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="1080" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
